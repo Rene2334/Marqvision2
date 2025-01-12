@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="34px" viewBox="0 0 38 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Asset 41@1.5x</title>
+    <defs>
+        <radialGradient cx="50.295%" cy="50.3899336%" fx="50.295%" fy="50.3899336%" r="54.5409292%" gradientTransform="translate(0.502950,0.503899),scale(0.904000,1.000000),translate(-0.502950,-0.503899)" id="radialGradient-1">
+            <stop stop-color="#02091B" offset="0%"></stop>
+            <stop stop-color="#003DE6" offset="90%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Web---Marqvision" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case-Study-Main" transform="translate(-79.000000, -417.000000)" stroke="url(#radialGradient-1)" stroke-width="1.4">
+            <g id="Asset-41" transform="translate(80.000000, 418.000000)">
+                <path d="M18.1756098,32.2243902 L0.614634146,32.2243902 L0.614634146,0.614634146 L18.1756098,0.614634146 L18.1756098,32.2243902 Z M35.6312195,8.51707317 L18.0702439,8.51707317 L18.0702439,32.2243902 L35.6312195,32.2243902 L35.6312195,8.51707317 Z M0.509268293,8.51707317 L18.0702439,8.51707317 M0.509268293,16.4195122 L35.6312195,16.4195122 M0.509268293,24.3219512 L35.6312195,24.3219512 M9.39512195,0.474146341 L9.39512195,32.2243902 M26.7804878,32.2243902 L26.64,8.51707317" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
